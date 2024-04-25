@@ -148,3 +148,183 @@
 [2024-04-23 18:31:12] Text error not found | File: /Users/mantas/Desktop/ISHOP2/public/index.php | Line: 8
         
 ==========================
+[2024-04-24 16:25:06] Text error Call to undefined method ishop\Router::matchRoute() | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 31
+        
+==========================
+[2024-04-24 16:25:06] Text error Call to undefined method ishop\Router::matchRoute() | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 31
+        
+==========================
+[2024-04-24 16:35:11] Text error Too few arguments to function ishop\Router::dispatch(), 0 passed in /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/App.php on line 19 and exactly 1 expected | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 29
+        
+==========================
+[2024-04-24 16:35:11] Text error Too few arguments to function ishop\Router::dispatch(), 0 passed in /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/App.php on line 19 and exactly 1 expected | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 29
+        
+==========================
+[2024-04-24 16:53:37] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 34
+        
+==========================
+[2024-04-24 16:54:09] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 34
+        
+==========================
+[2024-04-24 16:54:22] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 34
+        
+==========================
+[2024-04-24 16:54:22] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 34
+        
+==========================
+[2024-04-24 16:54:26] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 34
+        
+==========================
+[2024-04-24 16:54:43] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 34
+        
+==========================
+[2024-04-24 16:54:43] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 34
+        
+==========================
+[2024-04-24 17:00:41] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 34
+        
+==========================
+[2024-04-24 17:00:45] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 34
+        
+==========================
+[2024-04-24 17:04:34] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 34
+        
+==========================
+[2024-04-24 17:05:09] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 34
+        
+==========================
+[2024-04-24 17:05:16] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 34
+        
+==========================
+[2024-04-24 17:06:15] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 34
+        
+==========================
+[2024-04-24 17:06:16] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 34
+        
+==========================
+[2024-04-24 17:06:20] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 34
+        
+==========================
+[2024-04-24 17:06:39] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 34
+        
+==========================
+[2024-04-24 17:06:50] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 34
+        
+==========================
+[2024-04-24 17:07:07] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 34
+        
+==========================
+[2024-04-24 17:07:08] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 34
+        
+==========================
+[2024-04-24 17:07:18] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 34
+        
+==========================
+[2024-04-24 17:07:31] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 34
+        
+==========================
+[2024-04-24 17:09:22] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 34
+        
+==========================
+[2024-04-24 17:10:09] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 34
+        
+==========================
+[2024-04-24 17:15:51] Text error Controller app\controllers\PageController not found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 39
+        
+==========================
+[2024-04-24 17:15:51] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 42
+        
+==========================
+[2024-04-24 17:15:55] Text error Controller app\controllers\MainController not found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 39
+        
+==========================
+[2024-04-24 17:16:30] Text error Class "app\controllers\MainController" not found | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 36
+        
+==========================
+[2024-04-24 17:16:30] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 42
+        
+==========================
+[2024-04-24 17:16:31] Text error Class "app\controllers\MainController" not found | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 36
+        
+==========================
+[2024-04-24 17:16:31] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 42
+        
+==========================
+[2024-04-24 17:16:58] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 42
+        
+==========================
+[2024-04-24 17:22:44] Text error Controller app\controllers\MainController not found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 44
+        
+==========================
+[2024-04-24 17:23:53] Text error syntax error, unexpected token "}" | File: /Users/mantas/Desktop/ISHOP2/app/controllers/MainController.php | Line: 10
+        
+==========================
+[2024-04-24 17:23:53] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 47
+        
+==========================
+[2024-04-24 17:24:19] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 47
+        
+==========================
+[2024-04-24 17:24:41] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 48
+        
+==========================
+[2024-04-24 17:24:55] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 48
+        
+==========================
+[2024-04-24 17:25:15] Text error Controller app\controllers\PageController not found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 45
+        
+==========================
+[2024-04-24 17:26:40] Text error Metod app\controllers\PageController::viewAction not found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 42
+        
+==========================
+[2024-04-24 17:26:42] Text error Metod app\controllers\PageController::indexAction not found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 42
+        
+==========================
+[2024-04-24 17:26:45] Text error Metod app\controllers\PageController::indexAction not found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 42
+        
+==========================
+[2024-04-24 17:27:30] Text error Metod app\controllers\PageController::indexAction not found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 42
+        
+==========================
+[2024-04-24 17:27:32] Text error Metod app\controllers\PageController::indexAction not found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 42
+        
+==========================
+[2024-04-24 17:28:01] Text error Controller app\controllers\ViewController not found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 45
+        
+==========================
+[2024-04-24 17:28:19] Text error Metod app\controllers\PageController::indexAction not found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 42
+        
+==========================
+[2024-04-24 17:28:30] Text error Metod app\controllers\PageController::viwAction not found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 42
+        
+==========================
+[2024-04-24 17:29:13] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 48
+        
+==========================
+[2024-04-24 17:29:52] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 48
+        
+==========================
+[2024-04-24 17:31:24] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 48
+        
+==========================
+[2024-04-24 17:31:25] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 48
+        
+==========================
+[2024-04-24 17:31:29] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 48
+        
+==========================
+[2024-04-24 17:31:31] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 48
+        
+==========================
+[2024-04-24 17:31:36] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 48
+        
+==========================
+[2024-04-24 17:35:18] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 48
+        
+==========================
+[2024-04-24 17:37:37] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 47
+        
+==========================
+[2024-04-24 17:37:54] Text error The page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 47
+        
+==========================
