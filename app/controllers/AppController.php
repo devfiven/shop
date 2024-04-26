@@ -4,7 +4,9 @@
 namespace app\controllers;
 
 
-class AppController
+use ishop\base\Controller;
+
+class AppController extends Controller
 {
 
 }
