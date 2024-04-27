@@ -4,7 +4,7 @@
 namespace ishop;
 
 
-trait TSingleton
+trait TSingletone
 {
 
     private static $instance;

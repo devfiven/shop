@@ -6,7 +6,7 @@ namespace ishop;
 
 class Registry
 {
-    use TSingleton;
+    use TSingletone;
 
     public static $properties = [];
 
