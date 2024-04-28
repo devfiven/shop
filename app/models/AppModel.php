@@ -4,7 +4,9 @@
 namespace app\models;
 
 
-class AppModel
+use ishop\base\Model;
+
+class AppModel extends Model
 {
 
 }
