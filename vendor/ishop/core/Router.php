@@ -46,7 +46,7 @@ class Router
                 throw new \Exception("Controller $controller not found!");
             }
         } else {
-            throw new \Exception('The page not\'s found!', 404);
+            throw new \Exception('The Page not\'s found!', 404);
         }
     }
 
