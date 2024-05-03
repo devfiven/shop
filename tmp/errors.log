@@ -358,3 +358,240 @@
 [2024-05-01 18:29:25] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
         
 ==========================
+[2024-05-01 18:37:57] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-01 18:38:28] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-01 18:38:30] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-01 18:38:30] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-01 18:38:42] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-01 18:38:44] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-01 18:38:44] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:00:55] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:14:37] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:17:36] Text error SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' LIMIT 8  -- keep-cache' at line 1 | File: /Users/mantas/Desktop/ISHOP2/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 206
+        
+==========================
+[2024-05-02 14:17:36] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:17:39] Text error SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' LIMIT 8  -- keep-cache' at line 1 | File: /Users/mantas/Desktop/ISHOP2/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 206
+        
+==========================
+[2024-05-02 14:17:47] Text error SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' LIMIT 8  -- keep-cache' at line 1 | File: /Users/mantas/Desktop/ISHOP2/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 206
+        
+==========================
+[2024-05-02 14:17:47] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:18:18] Text error SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 'LIMIT 8'  -- keep-cache' at line 1 | File: /Users/mantas/Desktop/ISHOP2/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 206
+        
+==========================
+[2024-05-02 14:18:18] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:18:19] Text error SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' 'LIMIT 8'  -- keep-cache' at line 1 | File: /Users/mantas/Desktop/ISHOP2/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 206
+        
+==========================
+[2024-05-02 14:18:19] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:18:59] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:19:39] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:21:13] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:21:35] Text error Call to a member function img() on array | File: /Users/mantas/Desktop/ISHOP2/app/views/Main/index.php | Line: 52
+        
+==========================
+[2024-05-02 14:21:35] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:21:37] Text error Call to a member function img() on array | File: /Users/mantas/Desktop/ISHOP2/app/views/Main/index.php | Line: 52
+        
+==========================
+[2024-05-02 14:21:37] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:23:23] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:24:41] Text error syntax error, unexpected token "endforeach", expecting "elseif" or "else" or "endif" | File: /Users/mantas/Desktop/ISHOP2/app/views/Main/index.php | Line: 66
+        
+==========================
+[2024-05-02 14:24:41] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:24:42] Text error syntax error, unexpected token "endforeach", expecting "elseif" or "else" or "endif" | File: /Users/mantas/Desktop/ISHOP2/app/views/Main/index.php | Line: 66
+        
+==========================
+[2024-05-02 14:24:43] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:25:17] Text error syntax error, unexpected token "endforeach", expecting "elseif" or "else" or "endif" | File: /Users/mantas/Desktop/ISHOP2/app/views/Main/index.php | Line: 65
+        
+==========================
+[2024-05-02 14:25:17] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:25:36] Text error syntax error, unexpected token "endforeach", expecting "elseif" or "else" or "endif" | File: /Users/mantas/Desktop/ISHOP2/app/views/Main/index.php | Line: 66
+        
+==========================
+[2024-05-02 14:25:36] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:25:37] Text error syntax error, unexpected token "endforeach", expecting "elseif" or "else" or "endif" | File: /Users/mantas/Desktop/ISHOP2/app/views/Main/index.php | Line: 66
+        
+==========================
+[2024-05-02 14:25:37] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:26:10] Text error syntax error, unexpected token "endforeach", expecting "elseif" or "else" or "endif" | File: /Users/mantas/Desktop/ISHOP2/app/views/Main/index.php | Line: 69
+        
+==========================
+[2024-05-02 14:26:11] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:26:59] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:26:59] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:27:22] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:27:22] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:27:37] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:27:37] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:28:01] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:28:01] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:28:31] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:28:31] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:30:01] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:30:01] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:35:53] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:35:54] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:39:02] Text error Division by zero | File: /Users/mantas/Desktop/ISHOP2/app/views/Main/index.php | Line: 67
+        
+==========================
+[2024-05-02 14:39:02] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:39:03] Text error Division by zero | File: /Users/mantas/Desktop/ISHOP2/app/views/Main/index.php | Line: 67
+        
+==========================
+[2024-05-02 14:39:03] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:39:33] Text error Division by zero | File: /Users/mantas/Desktop/ISHOP2/app/views/Main/index.php | Line: 66
+        
+==========================
+[2024-05-02 14:39:33] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:39:55] Text error Division by zero | File: /Users/mantas/Desktop/ISHOP2/app/views/Main/index.php | Line: 67
+        
+==========================
+[2024-05-02 14:39:55] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:40:00] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:40:00] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:40:21] Text error Division by zero | File: /Users/mantas/Desktop/ISHOP2/app/views/Main/index.php | Line: 67
+        
+==========================
+[2024-05-02 14:40:21] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:40:58] Text error Division by zero | File: /Users/mantas/Desktop/ISHOP2/app/views/Main/index.php | Line: 67
+        
+==========================
+[2024-05-02 14:40:58] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:41:46] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:41:46] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:41:46] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:42:50] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:42:53] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:43:17] Text error Controller app\controllers\CartController not found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 46
+        
+==========================
+[2024-05-02 14:46:12] Text error Controller app\controllers\CartController not found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 46
+        
+==========================
+[2024-05-02 14:46:12] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:46:21] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:47:44] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:48:05] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:48:28] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-02 14:48:31] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
