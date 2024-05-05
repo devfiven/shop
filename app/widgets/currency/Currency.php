@@ -3,6 +3,8 @@
 
 namespace app\widgets\currency;
 
+use ishop\App;
+
 
 class Currency
 {
@@ -18,8 +20,9 @@ class Currency
 
     protected function run()
     {
-
-        $this->getHtml();
+        $this->currencies = App::$app->getProperty('currencies');
+        $this->currency = App::$app->getProperty('currency');
+        echo $this->getHtml();
     }
 
     public static function getCurrencies()
@@ -41,6 +44,8 @@ class Currency
 
     protected function getHtml()
     {
-
+        ob_start();
+        require_once $this->tpl;
+        return ob_get_clean();
     }
 }
