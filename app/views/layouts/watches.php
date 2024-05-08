@@ -16,13 +16,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <!--//theme-style-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-      <!--start-menu-->
     <link href="/css/memenu.css" rel="stylesheet" type="text/css" media="all" />
     <link rel="icon" type="image/png" href="/public/images/icons8-favicon-doodle-32.png">
 </head>
 <body>
 <!--top-header-->
-<!--Commentas-->
 <div class="top-header">
     <div class="container">
         <div class="top-header-main">
