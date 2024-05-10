@@ -43,6 +43,7 @@
 <!--about-end-->
 <!--product-starts-->
 <?php if ($hits): ?>
+    <?php $curr = \ishop\App::$app->getProperty('currency'); ?>
     <div class="product">
         <div class="container">
             <div class="product-top">
@@ -57,17 +58,28 @@
                                     <h3><a href="product/<?= $hit->alias; ?>"><?= $hit->title; ?></a></h3>
                                     <p><a href="product/<?= $hit->alias; ?>">Explore Now</a></p>
                                     <h4><a class="add-to-cart-link" href="cart/add?id=<?= $hit->id; ?>"><i></i></a>
-                                        <span class=" item_price">$ <?= $hit->price; ?></span>
+                                        <?php
+                                        // Calculating the price by applying the currency conversion factor.
+                                        $price = $hit->price * $curr['value'];
+                                        ?>
+
+                                        <span class="item_price">
+                                            <?php if (!empty($curr['symbol_left'])) echo $curr['symbol_left']; ?>
+                                            <?= $price ?>
+                                            <?php if (!empty($curr['symbol_right'])) echo $curr['symbol_right']; ?>
+                                        </span>
                                         <?php if ($hit->old_price): ?>
                                             <small>
-                                                <del><?= $hit->old_price; ?></del>
+                                                <?php if (!empty($curr['symbol_left'])) echo $curr['symbol_left']; ?>
+                                                <del><?= $hit->old_price * $curr['value']; ?></del>
+                                                <?php if (!empty($curr['symbol_right'])) echo $curr['symbol_right']; ?>
                                             </small>
                                         <?php endif; ?>
                                     </h4>
                                 </div>
                                 <div class="srch">
-                                    <?php if ($hit->old_price): ?>
-                                        <?php $discount = round(($hit->old_price - $hit->price) / $hit->old_price * 100); ?>
+                                    <?php if ($hit->old_price * $curr['value']): ?>
+                                        <?php $discount = round(($hit->old_price * $curr['value'] - $hit->price) / $hit->old_price * $curr['value'] * 100); ?>
                                         <span>-<?= $discount ?>%</span>
                                     <?php endif; ?>
                                 </div>

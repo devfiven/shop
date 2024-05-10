@@ -25,3 +25,21 @@
 [2024-05-04 12:00:25] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
         
 ==========================
+[2024-05-09 09:10:13] Text error Unsupported operand types: array * string | File: /Users/mantas/Desktop/ISHOP2/app/views/Main/index.php | Line: 64
+        
+==========================
+[2024-05-09 09:10:13] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-09 09:10:14] Text error Unsupported operand types: array * string | File: /Users/mantas/Desktop/ISHOP2/app/views/Main/index.php | Line: 64
+        
+==========================
+[2024-05-09 09:10:14] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-09 09:15:33] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
+[2024-05-09 09:15:33] Text error The Page not's found! | File: /Users/mantas/Desktop/ISHOP2/vendor/ishop/core/Router.php | Line: 49
+        
+==========================
