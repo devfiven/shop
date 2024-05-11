@@ -79,7 +79,7 @@
                                 </div>
                                 <div class="srch">
                                     <?php if ($hit->old_price * $curr['value']): ?>
-                                        <?php $discount = round(($hit->old_price * $curr['value'] - $hit->price) / $hit->old_price * $curr['value'] * 100); ?>
+                                        <?php $discount = round(($hit->old_price - $hit->price) / $hit->old_price * 100); ?>
                                         <span>-<?= $discount ?>%</span>
                                     <?php endif; ?>
                                 </div>
@@ -92,4 +92,4 @@
         </div>
     </div>
 <?php endif; ?>
-<!--product-end-->
+<!--product-endas-->
