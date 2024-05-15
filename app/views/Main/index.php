@@ -92,4 +92,4 @@
         </div>
     </div>
 <?php endif; ?>
-<!--product-ended here----->
+<!--product-end here----->
